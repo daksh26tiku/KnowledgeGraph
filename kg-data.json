@@ -1,0 +1,1388 @@
+{
+  "nodes": [
+    {
+      "id": "@prefix",
+      "label": "@prefix"
+    },
+    {
+      "id": "https://daksh26tiku.github.io/KnowledgeGraph#",
+      "label": ""
+    },
+    {
+      "id": "ex:Zelenskyy",
+      "label": "ex:Zelenskyy"
+    },
+    {
+      "id": "ex:NATO_Summit",
+      "label": "ex:NATO Summit"
+    },
+    {
+      "id": "ex:Ukraine",
+      "label": "ex:Ukraine"
+    },
+    {
+      "id": "ex:Macron",
+      "label": "ex:Macron"
+    },
+    {
+      "id": "ex:Kyiv_Residents",
+      "label": "ex:Kyiv Residents"
+    },
+    {
+      "id": "ex:Corruption",
+      "label": "ex:Corruption"
+    },
+    {
+      "id": "ex:Frontline",
+      "label": "ex:Frontline"
+    },
+    {
+      "id": "ex:Scholz",
+      "label": "ex:Scholz"
+    },
+    {
+      "id": "ex:NATO",
+      "label": "ex:NATO"
+    },
+    {
+      "id": "ex:Reconstruction_Plan",
+      "label": "ex:Reconstruction Plan"
+    },
+    {
+      "id": "ex:Ukrainian_Soldiers",
+      "label": "ex:Ukrainian Soldiers"
+    },
+    {
+      "id": "ex:Putin",
+      "label": "ex:Putin"
+    },
+    {
+      "id": "ex:Xi_Jinping",
+      "label": "ex:Xi Jinping"
+    },
+    {
+      "id": "ex:Russia",
+      "label": "ex:Russia"
+    },
+    {
+      "id": "ex:Strategic_Partnership",
+      "label": "ex:Strategic Partnership"
+    },
+    {
+      "id": "ex:International_Community",
+      "label": "ex:International Community"
+    },
+    {
+      "id": "ex:Russian_Parliament",
+      "label": "ex:Russian Parliament"
+    },
+    {
+      "id": "ex:Russian_Army",
+      "label": "ex:Russian Army"
+    },
+    {
+      "id": "ex:Western_Sanctions",
+      "label": "ex:Western Sanctions"
+    },
+    {
+      "id": "ex:Missile_Strikes",
+      "label": "ex:Missile Strikes"
+    },
+    {
+      "id": "ex:Lukashenko",
+      "label": "ex:Lukashenko"
+    },
+    {
+      "id": "ex:Wagner_Group",
+      "label": "ex:Wagner Group"
+    },
+    {
+      "id": "ex:UN",
+      "label": "ex:UN"
+    },
+    {
+      "id": "ex:Humanitarian_Impact",
+      "label": "ex:Humanitarian Impact"
+    },
+    {
+      "id": "ex:Civilian_Infrastructure_Attacks",
+      "label": "ex:Civilian Infrastructure Attacks"
+    },
+    {
+      "id": "ex:War_Crimes",
+      "label": "ex:War Crimes"
+    },
+    {
+      "id": "ex:Safe_Passage",
+      "label": "ex:Safe Passage"
+    },
+    {
+      "id": "ex:Humanitarian_Aid",
+      "label": "ex:Humanitarian Aid"
+    },
+    {
+      "id": "ex:Ceasefire",
+      "label": "ex:Ceasefire"
+    },
+    {
+      "id": "ex:Rights_Abuses",
+      "label": "ex:Rights Abuses"
+    },
+    {
+      "id": "ex:Refugee_Crisis",
+      "label": "ex:Refugee Crisis"
+    },
+    {
+      "id": "ex:Kyiv",
+      "label": "ex:Kyiv"
+    },
+    {
+      "id": "ex:Bakhmut",
+      "label": "ex:Bakhmut"
+    },
+    {
+      "id": "ex:Civilian_Areas",
+      "label": "ex:Civilian Areas"
+    },
+    {
+      "id": "ex:Supply_Issues",
+      "label": "ex:Supply Issues"
+    },
+    {
+      "id": "ex:Sanctions",
+      "label": "ex:Sanctions"
+    },
+    {
+      "id": "ex:Odesa",
+      "label": "ex:Odesa"
+    },
+    {
+      "id": "ex:Infrastructure",
+      "label": "ex:Infrastructure"
+    },
+    {
+      "id": "ex:Artillery",
+      "label": "ex:Artillery"
+    },
+    {
+      "id": "ex:Reservists",
+      "label": "ex:Reservists"
+    },
+    {
+      "id": "ex:Grain_Exports",
+      "label": "ex:Grain Exports"
+    },
+    {
+      "id": "ex:Belarus",
+      "label": "ex:Belarus"
+    },
+    {
+      "id": "ex:Iranian_Drones",
+      "label": "ex:Iranian Drones"
+    },
+    {
+      "id": "ex:Economic_Crisis",
+      "label": "ex:Economic Crisis"
+    },
+    {
+      "id": "ex:Battalion",
+      "label": "ex:Battalion"
+    },
+    {
+      "id": "ex:Crimea",
+      "label": "ex:Crimea"
+    },
+    {
+      "id": "ex:Territory",
+      "label": "ex:Territory"
+    },
+    {
+      "id": "ex:USA",
+      "label": "ex:USA"
+    },
+    {
+      "id": "ex:Western_Weapons",
+      "label": "ex:Western Weapons"
+    },
+    {
+      "id": "ex:Air_Defense",
+      "label": "ex:Air Defense"
+    },
+    {
+      "id": "ex:HIMARS",
+      "label": "ex:HIMARS"
+    },
+    {
+      "id": "ex:Civilians",
+      "label": "ex:Civilians"
+    },
+    {
+      "id": "ex:Russian_Advances",
+      "label": "ex:Russian Advances"
+    },
+    {
+      "id": "ex:Border_Defenses",
+      "label": "ex:Border Defenses"
+    },
+    {
+      "id": "ex:FPV_Drone",
+      "label": "ex:FPV Drone"
+    },
+    {
+      "id": "ex:Russian_Tank",
+      "label": "ex:Russian Tank"
+    },
+    {
+      "id": "ex:Counteroffensive",
+      "label": "ex:Counteroffensive"
+    },
+    {
+      "id": "ex:EU",
+      "label": "ex:EU"
+    },
+    {
+      "id": "ex:Night_Operations",
+      "label": "ex:Night Operations"
+    },
+    {
+      "id": "ex:Eastern_Europe",
+      "label": "ex:Eastern Europe"
+    },
+    {
+      "id": "ex:Military_Drills",
+      "label": "ex:Military Drills"
+    },
+    {
+      "id": "ex:Emergency_Meeting",
+      "label": "ex:Emergency Meeting"
+    },
+    {
+      "id": "ex:Finland",
+      "label": "ex:Finland"
+    },
+    {
+      "id": "ex:Sweden",
+      "label": "ex:Sweden"
+    },
+    {
+      "id": "ex:NATO_Membership",
+      "label": "ex:NATO Membership"
+    },
+    {
+      "id": "ex:Poland",
+      "label": "ex:Poland"
+    },
+    {
+      "id": "ex:Refugees",
+      "label": "ex:Refugees"
+    },
+    {
+      "id": "ex:Germany",
+      "label": "ex:Germany"
+    },
+    {
+      "id": "ex:Leopard_Tanks",
+      "label": "ex:Leopard Tanks"
+    },
+    {
+      "id": "ex:Canada",
+      "label": "ex:Canada"
+    },
+    {
+      "id": "ex:Russian_Officials",
+      "label": "ex:Russian Officials"
+    },
+    {
+      "id": "ex:Security_Package",
+      "label": "ex:Security Package"
+    },
+    {
+      "id": "ex:UK",
+      "label": "ex:UK"
+    },
+    {
+      "id": "ex:France",
+      "label": "ex:France"
+    },
+    {
+      "id": "ex:Air_Defense_Systems",
+      "label": "ex:Air Defense Systems"
+    },
+    {
+      "id": "ex:Russian_Command_Post",
+      "label": "ex:Russian Command Post"
+    },
+    {
+      "id": "ex:Ammo_Depot",
+      "label": "ex:Ammo Depot"
+    },
+    {
+      "id": "ex:Supply_Lines",
+      "label": "ex:Supply Lines"
+    },
+    {
+      "id": "ex:Ukrainian_Drone",
+      "label": "ex:Ukrainian Drone"
+    },
+    {
+      "id": "ex:Russian_Positions",
+      "label": "ex:Russian Positions"
+    },
+    {
+      "id": "ex:Russian_Trench",
+      "label": "ex:Russian Trench"
+    },
+    {
+      "id": "ex:Explosives",
+      "label": "ex:Explosives"
+    },
+    {
+      "id": "ex:Battlefield_Footage",
+      "label": "ex:Battlefield Footage"
+    },
+    {
+      "id": "ex:Javelin_Missile",
+      "label": "ex:Javelin Missile"
+    },
+    {
+      "id": "ex:StugnaP_ATGM",
+      "label": "ex:StugnaP ATGM"
+    },
+    {
+      "id": "ex:Moving_Vehicle",
+      "label": "ex:Moving Vehicle"
+    },
+    {
+      "id": "ex:Thermal_Scope",
+      "label": "ex:Thermal Scope"
+    },
+    {
+      "id": "ex:Night_Engagement",
+      "label": "ex:Night Engagement"
+    },
+    {
+      "id": "ex:Russian_Artillery",
+      "label": "ex:Russian Artillery"
+    },
+    {
+      "id": "ex:Mortar",
+      "label": "ex:Mortar"
+    },
+    {
+      "id": "ex:Ukrainian_Trench",
+      "label": "ex:Ukrainian Trench"
+    },
+    {
+      "id": "ex:Ukrainian_Positions",
+      "label": "ex:Ukrainian Positions"
+    },
+    {
+      "id": "ex:Anti_Air_System",
+      "label": "ex:Anti Air System"
+    },
+    {
+      "id": "ex:Russian_Missile",
+      "label": "ex:Russian Missile"
+    },
+    {
+      "id": "ex:Patriot_System",
+      "label": "ex:Patriot System"
+    },
+    {
+      "id": "ex:Reuters",
+      "label": "ex:Reuters"
+    },
+    {
+      "id": "ex:Prisoner_Exchange",
+      "label": "ex:Prisoner Exchange"
+    },
+    {
+      "id": "ex:BBC",
+      "label": "ex:BBC"
+    },
+    {
+      "id": "ex:Ukraine_War",
+      "label": "ex:Ukraine War"
+    },
+    {
+      "id": "ex:ISW",
+      "label": "ex:ISW"
+    },
+    {
+      "id": "ex:War_Situation",
+      "label": "ex:War Situation"
+    },
+    {
+      "id": "ex:AlJazeera",
+      "label": "ex:AlJazeera"
+    },
+    {
+      "id": "ex:Humanitarian_Crisis",
+      "label": "ex:Humanitarian Crisis"
+    },
+    {
+      "id": "ex:NYTimes",
+      "label": "ex:NYTimes"
+    },
+    {
+      "id": "ex:War_Analysis",
+      "label": "ex:War Analysis"
+    },
+    {
+      "id": "ex:Mariupol",
+      "label": "ex:Mariupol"
+    },
+    {
+      "id": "ex:Damage",
+      "label": "ex:Damage"
+    },
+    {
+      "id": "ex:Air_Defenses",
+      "label": "ex:Air Defenses"
+    },
+    {
+      "id": "ex:Kharkiv",
+      "label": "ex:Kharkiv"
+    },
+    {
+      "id": "ex:Attacks",
+      "label": "ex:Attacks"
+    },
+    {
+      "id": "ex:Lviv",
+      "label": "ex:Lviv"
+    },
+    {
+      "id": "ex:Displaced_Families",
+      "label": "ex:Displaced Families"
+    },
+    {
+      "id": "ex:Conflict",
+      "label": "ex:Conflict"
+    },
+    {
+      "id": "ex:Russian_Troops",
+      "label": "ex:Russian Troops"
+    },
+    {
+      "id": "ex:Turkey",
+      "label": "ex:Turkey"
+    },
+    {
+      "id": "ex:Negotiations",
+      "label": "ex:Negotiations"
+    },
+    {
+      "id": "ex:Peace_Talks",
+      "label": "ex:Peace Talks"
+    },
+    {
+      "id": "ex:China",
+      "label": "ex:China"
+    },
+    {
+      "id": "ex:West",
+      "label": "ex:West"
+    },
+    {
+      "id": "ex:Dialogue",
+      "label": "ex:Dialogue"
+    },
+    {
+      "id": "ex:India",
+      "label": "ex:India"
+    },
+    {
+      "id": "ex:De-escalation",
+      "label": "ex:De-escalation"
+    },
+    {
+      "id": "ex:Mental_Health_Crisis",
+      "label": "ex:Mental Health Crisis"
+    },
+    {
+      "id": "ex:Europe",
+      "label": "ex:Europe"
+    },
+    {
+      "id": "ex:Red_Cross",
+      "label": "ex:Red Cross"
+    },
+    {
+      "id": "ex:Equipment",
+      "label": "ex:Equipment"
+    },
+    {
+      "id": "ex:Russian_Military",
+      "label": "ex:Russian Military"
+    },
+    {
+      "id": "ex:Prisoners",
+      "label": "ex:Prisoners"
+    },
+    {
+      "id": "ex:International_Criminal_Court",
+      "label": "ex:International Criminal Court"
+    },
+    {
+      "id": "ex:Amnesty_International",
+      "label": "ex:Amnesty International"
+    },
+    {
+      "id": "ex:OSCE",
+      "label": "ex:OSCE"
+    },
+    {
+      "id": "ex:Conflict_Zone",
+      "label": "ex:Conflict Zone"
+    },
+    {
+      "id": "ex:Ghost_of_Kyiv",
+      "label": "ex:Ghost of Kyiv"
+    },
+    {
+      "id": "ex:Public_Morale",
+      "label": "ex:Public Morale"
+    },
+    {
+      "id": "ex:Russian_Propaganda",
+      "label": "ex:Russian Propaganda"
+    },
+    {
+      "id": "ex:Citizens",
+      "label": "ex:Citizens"
+    },
+    {
+      "id": "ex:Fact_Checkers",
+      "label": "ex:Fact Checkers"
+    },
+    {
+      "id": "ex:Propaganda_Claims",
+      "label": "ex:Propaganda Claims"
+    },
+    {
+      "id": "ex:Energy_Sector",
+      "label": "ex:Energy Sector"
+    },
+    {
+      "id": "ex:War",
+      "label": "ex:War"
+    },
+    {
+      "id": "ex:Global_Markets",
+      "label": "ex:Global Markets"
+    },
+    {
+      "id": "ex:War_Developments",
+      "label": "ex:War Developments"
+    },
+    {
+      "id": "ex:Oil_Prices",
+      "label": "ex:Oil Prices"
+    },
+    {
+      "id": "ex:Gas_Supply",
+      "label": "ex:Gas Supply"
+    },
+    {
+      "id": "ex:Kremlin",
+      "label": "ex:Kremlin"
+    },
+    {
+      "id": "ex:Official_Statement",
+      "label": "ex:Official Statement"
+    },
+    {
+      "id": "ex:Ukrainian_Special_Forces",
+      "label": "ex:Ukrainian Special Forces"
+    },
+    {
+      "id": "ex:Enemy_Lines",
+      "label": "ex:Enemy Lines"
+    },
+    {
+      "id": "ex:Ukrainian_Military",
+      "label": "ex:Ukrainian Military"
+    },
+    {
+      "id": "ex:Sabotage_Group",
+      "label": "ex:Sabotage Group"
+    },
+    {
+      "id": "ex:Ukrainian_Intelligence",
+      "label": "ex:Ukrainian Intelligence"
+    },
+    {
+      "id": "ex:Russian_Movements",
+      "label": "ex:Russian Movements"
+    },
+    {
+      "id": "ex:Ballistic_Missile",
+      "label": "ex:Ballistic Missile"
+    },
+    {
+      "id": "ex:Armored_Vehicles",
+      "label": "ex:Armored Vehicles"
+    },
+    {
+      "id": "ex:Northern_Ukraine",
+      "label": "ex:Northern Ukraine"
+    },
+    {
+      "id": "ex:Defensive_Lines",
+      "label": "ex:Defensive Lines"
+    }
+  ],
+  "edges": [
+    {
+      "from": "@prefix",
+      "to": "https://daksh26tiku.github.io/KnowledgeGraph#",
+      "label": "ex:"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:NATO_Summit",
+      "label": "ex:addresses"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Ukraine",
+      "label": "ex:leads"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Macron",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Kyiv_Residents",
+      "label": "ex:inspires"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Corruption",
+      "label": "ex:cracksDownOn"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Frontline",
+      "label": "ex:visits"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Scholz",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:NATO",
+      "label": "ex:requestsSupportFrom"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Reconstruction_Plan",
+      "label": "ex:announces"
+    },
+    {
+      "from": "ex:Zelenskyy",
+      "to": "ex:Ukrainian_Soldiers",
+      "label": "ex:motivates"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Xi_Jinping",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Russia",
+      "label": "ex:leads"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Strategic_Partnership",
+      "label": "ex:discusses"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:International_Community",
+      "label": "ex:isolatedBy"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Russian_Parliament",
+      "label": "ex:addresses"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Russian_Army",
+      "label": "ex:commands"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Western_Sanctions",
+      "label": "ex:denounces"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Missile_Strikes",
+      "label": "ex:orders"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Lukashenko",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:Putin",
+      "to": "ex:Wagner_Group",
+      "label": "ex:praises"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Humanitarian_Impact",
+      "label": "ex:reportsOn"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Civilian_Infrastructure_Attacks",
+      "label": "ex:condemns"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:War_Crimes",
+      "label": "ex:reportsOn"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Safe_Passage",
+      "label": "ex:callsFor"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Humanitarian_Aid",
+      "label": "ex:deploys"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Ukraine",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Russia",
+      "label": "ex:meets"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Ceasefire",
+      "label": "ex:urges"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Rights_Abuses",
+      "label": "ex:investigates"
+    },
+    {
+      "from": "ex:UN",
+      "to": "ex:Refugee_Crisis",
+      "label": "ex:monitors"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Kyiv",
+      "label": "ex:attacks"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Bakhmut",
+      "label": "ex:attacks"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Civilian_Areas",
+      "label": "ex:shells"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Supply_Issues",
+      "label": "ex:strugglesWith"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Sanctions",
+      "label": "ex:faces"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Missile_Strikes",
+      "label": "ex:launches"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Odesa",
+      "label": "ex:attacks"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Infrastructure",
+      "label": "ex:targets"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Artillery",
+      "label": "ex:deploys"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Reservists",
+      "label": "ex:mobilizes"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Grain_Exports",
+      "label": "ex:blocks"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Belarus",
+      "label": "ex:coordinatesWith"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Iranian_Drones",
+      "label": "ex:reliesOn"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Economic_Crisis",
+      "label": "ex:faces"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Battalion",
+      "label": "ex:loses"
+    },
+    {
+      "from": "ex:Russia",
+      "to": "ex:Crimea",
+      "label": "ex:occupies"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Kyiv",
+      "label": "ex:defends"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Territory",
+      "label": "ex:liberates"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Bakhmut",
+      "label": "ex:holdsLineAt"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:USA",
+      "label": "ex:receivesAidFrom"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Western_Weapons",
+      "label": "ex:receivesHardware"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Russia",
+      "label": "ex:fights"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Air_Defense",
+      "label": "ex:requests"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:HIMARS",
+      "label": "ex:deploys"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:NATO",
+      "label": "ex:coordinatesWith"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Civilians",
+      "label": "ex:evacuates"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Russian_Advances",
+      "label": "ex:resists"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Border_Defenses",
+      "label": "ex:strengthens"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:FPV_Drone",
+      "label": "ex:operates"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Russian_Tank",
+      "label": "ex:captures"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Counteroffensive",
+      "label": "ex:conducts"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:EU",
+      "label": "ex:appealsTo"
+    },
+    {
+      "from": "ex:Ukraine",
+      "to": "ex:Night_Operations",
+      "label": "ex:performs"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Ukraine",
+      "label": "ex:supports"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Ukraine",
+      "label": "ex:providesIntelTo"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Eastern_Europe",
+      "label": "ex:increasesPresenceIn"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Military_Drills",
+      "label": "ex:conducts"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Russia",
+      "label": "ex:criticizes"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:EU",
+      "label": "ex:coordinatesWith"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Emergency_Meeting",
+      "label": "ex:holds"
+    },
+    {
+      "from": "ex:NATO",
+      "to": "ex:Belarus",
+      "label": "ex:warns"
+    },
+    {
+      "from": "ex:Finland",
+      "to": "ex:NATO",
+      "label": "ex:joins"
+    },
+    {
+      "from": "ex:Sweden",
+      "to": "ex:NATO_Membership",
+      "label": "ex:awaits"
+    },
+    {
+      "from": "ex:Poland",
+      "to": "ex:Refugees",
+      "label": "ex:shelters"
+    },
+    {
+      "from": "ex:Germany",
+      "to": "ex:Ukraine",
+      "label": "ex:supports"
+    },
+    {
+      "from": "ex:Germany",
+      "to": "ex:Leopard_Tanks",
+      "label": "ex:sends"
+    },
+    {
+      "from": "ex:Canada",
+      "to": "ex:Russian_Officials",
+      "label": "ex:sanctions"
+    },
+    {
+      "from": "ex:USA",
+      "to": "ex:HIMARS",
+      "label": "ex:provides"
+    },
+    {
+      "from": "ex:USA",
+      "to": "ex:Security_Package",
+      "label": "ex:announces"
+    },
+    {
+      "from": "ex:UK",
+      "to": "ex:Ukrainian_Soldiers",
+      "label": "ex:trains"
+    },
+    {
+      "from": "ex:France",
+      "to": "ex:Air_Defense_Systems",
+      "label": "ex:sends"
+    },
+    {
+      "from": "ex:HIMARS",
+      "to": "ex:Russian_Command_Post",
+      "label": "ex:destroys"
+    },
+    {
+      "from": "ex:HIMARS",
+      "to": "ex:Ammo_Depot",
+      "label": "ex:hits"
+    },
+    {
+      "from": "ex:HIMARS",
+      "to": "ex:Ukraine",
+      "label": "ex:usedBy"
+    },
+    {
+      "from": "ex:HIMARS",
+      "to": "ex:Supply_Lines",
+      "label": "ex:targets"
+    },
+    {
+      "from": "ex:Ukrainian_Drone",
+      "to": "ex:Russian_Positions",
+      "label": "ex:targets"
+    },
+    {
+      "from": "ex:Ukrainian_Drone",
+      "to": "ex:Russian_Trench",
+      "label": "ex:strikes"
+    },
+    {
+      "from": "ex:FPV_Drone",
+      "to": "ex:Russian_Trench",
+      "label": "ex:strikes"
+    },
+    {
+      "from": "ex:FPV_Drone",
+      "to": "ex:Explosives",
+      "label": "ex:drops"
+    },
+    {
+      "from": "ex:Ukrainian_Drone",
+      "to": "ex:Battlefield_Footage",
+      "label": "ex:records"
+    },
+    {
+      "from": "ex:Javelin_Missile",
+      "to": "ex:Russian_Tank",
+      "label": "ex:hits"
+    },
+    {
+      "from": "ex:StugnaP_ATGM",
+      "to": "ex:Moving_Vehicle",
+      "label": "ex:hits"
+    },
+    {
+      "from": "ex:Thermal_Scope",
+      "to": "ex:Night_Engagement",
+      "label": "ex:usedIn"
+    },
+    {
+      "from": "ex:Artillery",
+      "to": "ex:Russian_Artillery",
+      "label": "ex:duels"
+    },
+    {
+      "from": "ex:Mortar",
+      "to": "ex:Ukrainian_Trench",
+      "label": "ex:firesAt"
+    },
+    {
+      "from": "ex:Russian_Artillery",
+      "to": "ex:Ukrainian_Positions",
+      "label": "ex:shells"
+    },
+    {
+      "from": "ex:Anti_Air_System",
+      "to": "ex:Russian_Missile",
+      "label": "ex:intercepts"
+    },
+    {
+      "from": "ex:Patriot_System",
+      "to": "ex:Kyiv",
+      "label": "ex:defends"
+    },
+    {
+      "from": "ex:Reuters",
+      "to": "ex:Prisoner_Exchange",
+      "label": "ex:reportsOn"
+    },
+    {
+      "from": "ex:BBC",
+      "to": "ex:Ukraine_War",
+      "label": "ex:covers"
+    },
+    {
+      "from": "ex:ISW",
+      "to": "ex:War_Situation",
+      "label": "ex:reportsOn"
+    },
+    {
+      "from": "ex:AlJazeera",
+      "to": "ex:Humanitarian_Crisis",
+      "label": "ex:highlights"
+    },
+    {
+      "from": "ex:NYTimes",
+      "to": "ex:War_Analysis",
+      "label": "ex:publishes"
+    },
+    {
+      "from": "ex:Mariupol",
+      "to": "ex:Russia",
+      "label": "ex:destroyedBy"
+    },
+    {
+      "from": "ex:Mariupol",
+      "to": "ex:Refugees",
+      "label": "ex:inhabitedBy"
+    },
+    {
+      "from": "ex:Mariupol",
+      "to": "ex:Humanitarian_Crisis",
+      "label": "ex:faces"
+    },
+    {
+      "from": "ex:Kyiv",
+      "to": "ex:Damage",
+      "label": "ex:rebuildsFrom"
+    },
+    {
+      "from": "ex:Kyiv",
+      "to": "ex:Air_Defenses",
+      "label": "ex:strengthens"
+    },
+    {
+      "from": "ex:Kharkiv",
+      "to": "ex:Attacks",
+      "label": "ex:adaptsTo"
+    },
+    {
+      "from": "ex:Odesa",
+      "to": "ex:Russia",
+      "label": "ex:targetedBy"
+    },
+    {
+      "from": "ex:Lviv",
+      "to": "ex:Displaced_Families",
+      "label": "ex:shelters"
+    },
+    {
+      "from": "ex:Belarus",
+      "to": "ex:Conflict",
+      "label": "ex:involvedIn"
+    },
+    {
+      "from": "ex:Belarus",
+      "to": "ex:Russian_Troops",
+      "label": "ex:allows"
+    },
+    {
+      "from": "ex:Turkey",
+      "to": "ex:Negotiations",
+      "label": "ex:mediates"
+    },
+    {
+      "from": "ex:Turkey",
+      "to": "ex:Peace_Talks",
+      "label": "ex:hosts"
+    },
+    {
+      "from": "ex:China",
+      "to": "ex:Russia",
+      "label": "ex:balancesBetween"
+    },
+    {
+      "from": "ex:China",
+      "to": "ex:West",
+      "label": "ex:balancesBetween"
+    },
+    {
+      "from": "ex:China",
+      "to": "ex:Dialogue",
+      "label": "ex:callsFor"
+    },
+    {
+      "from": "ex:India",
+      "to": "ex:De-escalation",
+      "label": "ex:urges"
+    },
+    {
+      "from": "ex:Refugees",
+      "to": "ex:Mariupol",
+      "label": "ex:fleeFrom"
+    },
+    {
+      "from": "ex:Refugees",
+      "to": "ex:Poland",
+      "label": "ex:arriveIn"
+    },
+    {
+      "from": "ex:Refugees",
+      "to": "ex:Mental_Health_Crisis",
+      "label": "ex:face"
+    },
+    {
+      "from": "ex:Refugees",
+      "to": "ex:Europe",
+      "label": "ex:hostedBy"
+    },
+    {
+      "from": "ex:Refugees",
+      "to": "ex:Red_Cross",
+      "label": "ex:assistedBy"
+    },
+    {
+      "from": "ex:Wagner_Group",
+      "to": "ex:Ukraine",
+      "label": "ex:activeIn"
+    },
+    {
+      "from": "ex:Wagner_Group",
+      "to": "ex:Equipment",
+      "label": "ex:loses"
+    },
+    {
+      "from": "ex:Wagner_Group",
+      "to": "ex:Russian_Military",
+      "label": "ex:conflictsWith"
+    },
+    {
+      "from": "ex:Wagner_Group",
+      "to": "ex:Prisoners",
+      "label": "ex:recruits"
+    },
+    {
+      "from": "ex:International_Criminal_Court",
+      "to": "ex:Russian_Officials",
+      "label": "ex:issuesWarrantsFor"
+    },
+    {
+      "from": "ex:Red_Cross",
+      "to": "ex:Safe_Passage",
+      "label": "ex:callsFor"
+    },
+    {
+      "from": "ex:Amnesty_International",
+      "to": "ex:War_Crimes",
+      "label": "ex:documents"
+    },
+    {
+      "from": "ex:OSCE",
+      "to": "ex:Conflict_Zone",
+      "label": "ex:observes"
+    },
+    {
+      "from": "ex:Ghost_of_Kyiv",
+      "to": "ex:Public_Morale",
+      "label": "ex:mythInfluences"
+    },
+    {
+      "from": "ex:Russian_Propaganda",
+      "to": "ex:Citizens",
+      "label": "ex:targets"
+    },
+    {
+      "from": "ex:Fact_Checkers",
+      "to": "ex:Propaganda_Claims",
+      "label": "ex:debunk"
+    },
+    {
+      "from": "ex:Energy_Sector",
+      "to": "ex:War",
+      "label": "ex:impactedBy"
+    },
+    {
+      "from": "ex:Global_Markets",
+      "to": "ex:War_Developments",
+      "label": "ex:reactTo"
+    },
+    {
+      "from": "ex:Oil_Prices",
+      "to": "ex:War",
+      "label": "ex:increaseDueTo"
+    },
+    {
+      "from": "ex:Gas_Supply",
+      "to": "ex:Sanctions",
+      "label": "ex:disruptedBy"
+    },
+    {
+      "from": "ex:Kremlin",
+      "to": "ex:Official_Statement",
+      "label": "ex:issues"
+    },
+    {
+      "from": "ex:Ukrainian_Special_Forces",
+      "to": "ex:Enemy_Lines",
+      "label": "ex:operateBehind"
+    },
+    {
+      "from": "ex:Ukrainian_Military",
+      "to": "ex:Russian_Tank",
+      "label": "ex:captures"
+    },
+    {
+      "from": "ex:Ukrainian_Military",
+      "to": "ex:Sabotage_Group",
+      "label": "ex:neutralizes"
+    },
+    {
+      "from": "ex:Ukrainian_Military",
+      "to": "ex:Ammo_Depot",
+      "label": "ex:destroys"
+    },
+    {
+      "from": "ex:Ukrainian_Intelligence",
+      "to": "ex:Russian_Movements",
+      "label": "ex:tracks"
+    },
+    {
+      "from": "ex:Russian_Military",
+      "to": "ex:Ballistic_Missile",
+      "label": "ex:fires"
+    },
+    {
+      "from": "ex:Russian_Military",
+      "to": "ex:Armored_Vehicles",
+      "label": "ex:loses"
+    },
+    {
+      "from": "ex:Russian_Military",
+      "to": "ex:Northern_Ukraine",
+      "label": "ex:retreatsFrom"
+    },
+    {
+      "from": "ex:Russian_Military",
+      "to": "ex:Defensive_Lines",
+      "label": "ex:builds"
+    }
+  ]
+}
