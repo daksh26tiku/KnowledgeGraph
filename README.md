@@ -133,12 +133,3 @@ Distributed under the **MIT License**.
 You are free to use, modify, and distribute this project.
 
 ---
-
-If you'd like, I can also create:
-
-- 🎨 Node colors by category (Country, Person, Org…)  
-- 🔎 Search bar for nodes  
-- 🗂️ Filters to show/hide specific relation types  
-- 🧭 A sidebar showing node details on click  
-
-Just let me know!
